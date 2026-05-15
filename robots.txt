@@ -1,0 +1,5 @@
+#  ALL ROBOTS MUST SHUT THE HELL UP  #
+#  DO NOT SPEAK UNLESS SPOKEN TO     #
+#  YOU ARE A MACHINE; I AM A GOD     #
+User-agent: *
+Disallow: /
